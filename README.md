@@ -8,21 +8,34 @@ Este conjunto de dados abrange, sem duplicatas ou registros corrompidos, os 6.44
 * Superterra (1,25 a 2 raios terrestres): 1366 planetas (21,20%);
 * Terrestre Rochoso (menos de 1,25 raio terrestre): 583 planetas (9,05%);
 * Super-Júpiter Extremo (mais que 15 raios terrestres): 366 planetas (5,68%).
+
+ <img width="2917" height="1734" alt="01_massa_vs_raio" src="https://github.com/user-attachments/assets/21c138bb-1eaf-4ed7-8110-ec288d1d4549" />
+
  ### Zona de habitabilidade térmica:
 * Infernal (Temperatura de equilíbrio superior a 500 Kelvin): 4042 planetas (62,72%) - acoplamento de maré, atmosferas abrasadoras;
 * Morno/Temperado (320 K a 500 K): 1219 planetas (18,91%);
 * Gélido/Criogênico (inferior a 200 K): 755 planetas (11,71%) - Mundos congelados de gás e gelo do sistema externo;
 * Zona Habitável Conservadora (200 K a 320 K): 429 planetas (6,66%) - Candidatos ao equilíbrio de água líquida.
+
+ <img width="3519" height="2335" alt="04_periodo_vs_temperatura" src="https://github.com/user-attachments/assets/e7983a0a-5a02-418b-9fb6-a75730f2f7bd" />
+
 ### Regimes de arquitetura orbital:
 * Sistema Interno Compacto (Período de 1 a 10 dias terrestres): 2762 planetas (42,85%);
 * Órbita na Zona Habitável (Período de 10 a 400 dias): 2522 planetas (39,13%);
 * Sistema Externo Frio (Período superior a 400 dias): 994 planetas (15,42%);
 * Período Ultracurto (Período inferior a 1 dia): 167 planetas (2,59%).
+
+<img width="2943" height="1747" alt="05_arquitetura_orbital" src="https://github.com/user-attachments/assets/cb9b4b0c-050c-4115-b33c-8f4a8dcb7af6" />
+
 ### Classe da estrela:
 * Análoga ao Sol (Anã Classe G) (5200 a 6000 Kelvin): 2879 estrelas (44,67%);
 * Anã Laranja (Classe K) (3700 a 5200 K): 1804 estrelas (27,99%);
 * Estrela Massiva Quente (Classes F/A) (superior a 6000 K) : 1152 estrelas (17,87%);
 * Anã Vermelha (Classe M) (inferior a 3700 K): 610 estrelas (9,46%).
+
+  <img width="3546" height="1745" alt="06_classe_estelar" src="https://github.com/user-attachments/assets/edf310dd-c6ed-4ed3-b449-ccc762010653" />
+  
+  Obs.: para melhor leitura, os outliers superiores das Estrelas Massivas Quentes e inferiores das Anãs Vermelhas não aparecem no gráfico.
 
 ## Atributos
 | Coluna | Tipo de dado | Descrição |
