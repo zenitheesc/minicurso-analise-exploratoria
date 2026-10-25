@@ -4,7 +4,7 @@ Este conjunto de dados abrange, sem duplicatas ou registros corrompidos, os 6.44
 
 ## Como executar
 
-O notebook principal [dataset_espacial_principal.ipynb](dataset_espacial_principal.ipynb) lê os arquivos CSV diretamente da raiz do projeto. Para manter compatibilidade com a execução local e com o histórico do repositório, os dados também estão disponíveis em [dados-base/](dados-base/) e em cópias na raiz do projeto.
+O notebook principal [dataset_espacial_principal.ipynb](dataset_espacial_principal.ipynb) lê os arquivo CSV original, nasa_exoplanets_archive.csv, na pasta [dados-base/](dados-base/), salvando a tradução exoplanetas_traduzidos.csv ali também. Os gráficos ilustrativos gerados são salvos em [graficos/](graficos/), e o arquivo csv com a seleção dos atributos mais interessantes (para uso no minicurso), exoplanetas_colunas_selecionadas.csv, é salvo na raiz do projeto.
 
 ## Classificação dos planetas e estrelas
 
